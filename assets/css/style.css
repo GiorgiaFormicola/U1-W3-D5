@@ -1,0 +1,27 @@
+* {
+  box-sizing: content-box;
+}
+
+body {
+  background-color: blanchedalmond;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #bf152f;
+}
+
+main {
+  border: 3px, solid #bf152f;
+  display: inline-block;
+}
+
+#numbers-board {
+  background-color: white;
+}
+
+#pulled-number {
+  text-align: center;
+}
